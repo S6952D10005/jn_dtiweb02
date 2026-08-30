@@ -1,0 +1,16 @@
+/* style03.css */
+body {
+        background-color: 235, 245, 248;
+      }
+      h1 {
+        color: blue;
+        text-align: center;
+      }
+      #root {
+        color: chocolate;
+        text-align: center;
+      }
+      #yoot {
+        color: crimson;
+        text-align: center;
+      }
